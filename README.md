@@ -1,6 +1,6 @@
 ## Overview 
 
-This is an image classification project that uses Convolutional Nural Network(CNN) to classify a dog breed given a photo.
+This is an image classification project that uses Convolutional Nural Network(CNN) to detect and classify a dog breed in a photo.
 
 ## Project Motivation
 
