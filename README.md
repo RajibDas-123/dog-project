@@ -15,7 +15,7 @@ The other files are prepared by Udacity and was there in the workspace
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@rajiblochandas3/how-to-build-a-deep-learning-model-to-predict-a-dogs-breed-f9ced96e6d59).
+The main findings of the code can be found in my blog available [here](https://medium.com/@rajiblochandas3/how-to-build-a-deep-learning-model-to-predict-a-dogs-breed-f9ced96e6d59).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
